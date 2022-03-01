@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://michelaj:Parkside1227@cluster0.e2oyx.mongodb.net/Database?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://michelaj:Parkside1227@cluster0.e2oyx.mongodb.net/Database?retryWrites=true&w=majority",
+    "jwtSecret": "theeyeofthetiger"
 }
